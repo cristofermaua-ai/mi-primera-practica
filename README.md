@@ -1,2 +1,2 @@
 # mi-primera-practica
-"Aquí guardare mis primero incisios de programación".
+"Aquí guardare mis primero incios de programación".
