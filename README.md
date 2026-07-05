@@ -1,10 +1,11 @@
-# mi-primera-practica
-"Aquí guardare mis primero incios de programación".
+# mi-primera-práctica
 
-//MI PRACTICA DE INGENERIA.
-//"hola ktl a todos soy un estudiante de ingeneria de sistemas, aquí pondre los codigo que ire haciendo.. "los pasos"
+"Aquí guardaré mis primeros inicios de programación".
 
-//MIS METAS PARA PROGRAMAR
-#APRENDER A PROGRAMAR 
-#DOMINAR LOS BASES FUNDAMENTALES DE PROGRAMACION 
-#CREAR MI APLICACION WED DE GASTOS 
+## 💻 Mi práctica de ingeniería
+Hola a todos, soy un estudiante de ingeniería de sistemas. Aquí pondré los códigos que iré haciendo y los pasos de mi aprendizaje.
+
+## 🎯 Mis metas para programar
+- [ ] Aprender a programar.
+- [ ] Dominar las bases fundamentales de la programación.
+- [ ] Crear mi aplicación web de gastos.
